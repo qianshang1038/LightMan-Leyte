@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "Step": 1,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "柜子中剩了些零散的罐头，看不出放置了多长时间",
+        "Scripts": ""
+    },
+    {
+        "id": 1,
+        "Step": 2,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "你确定你不会吃，因为你的这具躯体似乎只对电池感兴趣",
+        "Scripts": "exit"
+    },
+    {
+        "id": 2,
+        "Step": -1,
+        "SpeakType": 2,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "",
+        "Scripts": ""
+    }
+]

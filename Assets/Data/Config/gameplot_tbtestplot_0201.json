@@ -1,0 +1,79 @@
+[
+  {
+    "id": 100201,
+    "Step": 1,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "胖子热情地瞧着朋友，",
+    "Scripts": ""
+  },
+  {
+    "id": 100202,
+    "Step": 2,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheFat",
+    "Image": "",
+    "Voice": "",
+    "Lines": "你的近况如何？",
+    "Scripts": ""
+  },
+  {
+    "id": 100203,
+    "Step": 3,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheThin",
+    "Image": "",
+    "Voice": "",
+    "Lines": "我是在当官，我亲爱的！我已经做了两年八品文官。你怎么样？",
+    "Scripts": ""
+  },
+  {
+    "id": 100204,
+    "Step": 4,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheFat",
+    "Image": "",
+    "Voice": "",
+    "Lines": "我已经做到三品文官……有两枚星章了",
+    "Scripts": ""
+  },
+  {
+    "id": 100205,
+    "Step": 5,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "瘦子突然脸色变白，呆若木鸡，然而他的脸很快就往四下里扯开，做出顶畅快的笑容。",
+    "Scripts": ""
+  },
+  {
+    "id": 100206,
+    "Step": 6,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheThin",
+    "Image": "",
+    "Voice": "",
+    "Lines": "我，大人……很愉快！您老！嘻嘻。",
+    "Scripts": ""
+  },
+  {
+    "id": 100207,
+    "Step": 7,
+    "SpeakType": 0,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "",
+    "Scripts": "exit"
+  }
+]

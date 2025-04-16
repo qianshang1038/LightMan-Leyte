@@ -1,0 +1,79 @@
+[
+  {
+    "id": 100101,
+    "Step": 1,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "胖子与瘦子相遇了。胖子热情地瞧着朋友，",
+    "Scripts": ""
+  },
+  {
+    "id": 100102,
+    "Step": 2,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheFat",
+    "Image": "",
+    "Voice": "",
+    "Lines": "嗯，你的景况怎么样，朋友？你在哪儿当官？做到几品官了？",
+    "Scripts": ""
+  },
+  {
+    "id": 100103,
+    "Step": 3,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheThin",
+    "Image": "",
+    "Voice": "",
+    "Lines": "我是在当官，我亲爱的！我已经做了两年八品文官，还得了斯坦尼斯拉夫勋章。我的 薪金不多……哎，那也没关系！我妻子教音乐课.......嗯，那么你怎么样？恐怕已经做到五品文官了吧？啊？",
+    "Scripts": ""
+  },
+  {
+    "id": 100104,
+    "Step": 4,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheFat",
+    "Image": "",
+    "Voice": "",
+    "Lines": "不，我亲爱的，你还要说得高一点才成。我已经做到三品文官……有两枚星章了",
+    "Scripts": ""
+  },
+  {
+    "id": 100105,
+    "Step": 5,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "瘦子突然脸色变白，呆若木鸡，然而他的脸很快就往四下里扯开，做出顶畅快的笑容， 仿佛他脸上和眼睛里不住迸出火星来似的。他把身体缩起来，哈着腰，显得矮了半截……他 的皮箱、包裹和硬纸盒也都收缩起来，好像现出皱纹来了……他妻子的长下巴越发长了。纳 法奈尔挺直身体，做出立正的姿势，把他制服的纽扣全都扣上……",
+    "Scripts": ""
+  },
+  {
+    "id": 100106,
+    "Step": 6,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "TheThin",
+    "Image": "",
+    "Voice": "",
+    "Lines": "我，大人……很愉快！您，可以说，原是我儿时的朋友，现在忽然间，青云直上，做 了这么大的官，您老！嘻嘻。",
+    "Scripts": ""
+  },
+  {
+    "id": 100107,
+    "Step": 7,
+    "SpeakType": 0,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "",
+    "Scripts": "exit"
+  }
+]

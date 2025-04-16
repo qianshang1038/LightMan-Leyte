@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "Step": 2,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "尸体",
+        "Image": "",
+        "Voice": "",
+        "Lines": "尸体说话",
+        "Scripts": ""
+    },
+    {
+        "id": 1,
+        "Step": 2,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "门",
+        "Image": "",
+        "Voice": "",
+        "Lines": "门被上了锁，只能从门上依稀辨认出几个字，博士研究室",
+        "Scripts": ""
+    },
+    {
+        "id": 2,
+        "Step": -1,
+        "SpeakType": 2,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "",
+        "Scripts": "exit"
+    }
+]

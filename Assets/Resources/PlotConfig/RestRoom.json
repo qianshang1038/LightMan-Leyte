@@ -1,0 +1,35 @@
+[
+    {
+        "id": 0,
+        "Step": 1,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "研究员",
+        "Image": "",
+        "Voice": "",
+        "Lines": "研究员说话",
+        "Scripts": ""
+    },
+    {
+        "id": 1,
+        "Step": 2,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "研究员",
+        "Image": "",
+        "Voice": "",
+        "Lines": "研究员说话",
+        "Scripts": ""
+    },
+    {
+        "id": 2,
+        "Step": -1,
+        "SpeakType": 2,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "",
+        "Scripts": "exit"
+    }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "Step": 3,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "大照射：消耗电量适中，加大头灯照射亮度，眩晕单个敌人",
+    "Scripts": ""
+  },
+  {
+    "id": 1,
+    "Step": 3,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "灯光频闪：消耗电量较小，频繁照射，模糊敌人视线，降低对方攻击命中率",
+    "Scripts": ""
+  },
+  {
+    "id": 2,
+    "Step": 3,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "灯光折射：消耗灯光较多，必然命中，进行一次全场攻击",
+    "Scripts": ""
+  },
+  {
+    "id": 3,
+    "Step": -1,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "",
+    "Scripts": ""
+  }
+]

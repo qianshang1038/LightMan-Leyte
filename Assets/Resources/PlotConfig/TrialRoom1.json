@@ -1,0 +1,24 @@
+[
+    {
+        "id": 0,
+        "Step": 1,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "桌子",
+        "Image": "",
+        "Voice": "",
+        "Lines": "充电桩设定",
+        "Scripts": ""
+    },
+    {
+        "id": 1,
+        "Step": -1,
+        "SpeakType": 2,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "",
+        "Scripts": "exit"
+    }
+]

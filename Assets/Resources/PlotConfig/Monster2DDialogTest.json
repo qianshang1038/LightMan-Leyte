@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "Step": 1,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "Monster",
+        "Image": "",
+        "Voice": "",
+        "Lines": "我喜欢你",
+        "Scripts": ""
+    },
+    {
+        "id": 1,
+        "Step": 2,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "Monster",
+        "Image": "",
+        "Voice": "",
+        "Lines": "'哇...咔咔咔' 怪物发出了看似害羞的声音",
+        "Scripts": ""
+    },
+    {
+        "id": 2,
+        "Step": 5,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "Monster",
+        "Image": "",
+        "Voice": "",
+        "Lines": "对话成功！怪物san值掉落50%",
+        "Scripts": "T_Right"
+    },
+    {
+        "id": 3,
+        "Step": 5,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "Monster",
+        "Image": "",
+        "Voice": "",
+        "Lines": "中立回应",
+        "Scripts": "T_Middle"
+    },
+    {
+        "id": 4,
+        "Step": 5,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "Monster",
+        "Image": "",
+        "Voice": "",
+        "Lines": "错误回应",
+        "Scripts": "T_Error"
+    },
+    {
+        "id": 5,
+        "Step": -1,
+        "SpeakType": 2,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "",
+        "Scripts": ""
+    }
+]

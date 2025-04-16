@@ -1,0 +1,46 @@
+[
+    {
+        "id": 0,
+        "Step": 3,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "桌子",
+        "Image": "",
+        "Voice": "",
+        "Lines": "桌子说话",
+        "Scripts": ""
+    },
+    {
+        "id": 1,
+        "Step": 3,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "苏醒的床",
+        "Image": "",
+        "Voice": "",
+        "Lines": "床说话",
+        "Scripts": ""
+    },
+    {
+        "id": 2,
+        "Step": 3,
+        "SpeakType": 1,
+        "WaitTime": 0,
+        "Speaker": "台灯人尸体",
+        "Image": "",
+        "Voice": "",
+        "Lines": "实体说话",
+        "Scripts": ""
+    },
+    {
+        "id": 3,
+        "Step": -1,
+        "SpeakType": 2,
+        "WaitTime": 0,
+        "Speaker": "",
+        "Image": "",
+        "Voice": "",
+        "Lines": "",
+        "Scripts": "exit"
+    }
+]

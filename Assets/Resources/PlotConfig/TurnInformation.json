@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "玩家回合",
+    "Scripts": ""
+  },
+  {
+    "id": 1,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "怪物回合",
+    "Scripts": ""
+  },
+  {
+    "id": 2,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "投骰子决定攻击伤害",
+    "Scripts": ""
+  },
+  {
+    "id": 3,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "投骰子决定先手",
+    "Scripts": ""
+  },
+  {
+    "id": 4,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "开始投骰子",
+    "Scripts": ""
+  },
+  {
+    "id": 5,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "怪物开始投骰子",
+    "Scripts": ""
+  },
+  {
+    "id": 6,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "",
+    "Scripts": "你遭遇了敌人，进入战斗"
+  },
+  {
+    "id": 7,
+    "Step": 8,
+    "SpeakType": 1,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "重投一遍",
+    "Scripts": ""
+  },
+  {
+    "id": 8,
+    "Step": -1,
+    "SpeakType": 2,
+    "WaitTime": 0,
+    "Speaker": "",
+    "Image": "",
+    "Voice": "",
+    "Lines": "",
+    "Scripts": ""
+  }
+]
